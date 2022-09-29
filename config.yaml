@@ -12,7 +12,7 @@ params:
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowCodeCopyButtons: true
-  ShowShareButtons: true
+  # ShowShareButtons: true
   ShowPostNavLinks: true
 
   defaultTheme: auto # dark, light
