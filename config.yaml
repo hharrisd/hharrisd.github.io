@@ -19,8 +19,8 @@ params:
   disableThemeToggle: false
 
   homeInfoParams:
-    Title: Hi there 
-    Content: Can be Info, links, about...
+    Title: Hi there... 
+    Content: This space is a record of topics that I want to practice, learn, or I've just found fun during my software development journey.
 
   socialIcons: # optional
     - name: linkedin
@@ -61,4 +61,8 @@ menu:
     - identifier: search
       name: Search
       url: /search/
-      weight: 31
+      weight: 40
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 50
