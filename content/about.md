@@ -1,6 +1,8 @@
 ---
 ShowBreadCrumbs: false
 ShowReadingTime: false
+searchHidden: true
+hidemeta: true
 ---
 # Hi there,
 
