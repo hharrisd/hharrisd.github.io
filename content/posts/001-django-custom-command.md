@@ -1,5 +1,5 @@
 ---
-title: "Working with Django Custom Command"
+title: "Working with Django Custom Commands"
 date: 2022-10-06T18:03:18-05:00
 draft: false
 cover:
