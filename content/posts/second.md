@@ -1,7 +1,7 @@
 ---
 title: "Second"
 date: 2022-09-27T19:23:32-05:00
-draft: false
+draft: true
 cover:
     image: img/bells.png
     alt: 'Esta es una imagen divertida'
